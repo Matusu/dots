@@ -1,0 +1,11 @@
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[user]
+	email = volakmatous@gmail.com
+	name = Matusu
+[alias]
+    ac = commit -am
+[init]
+    defaultBranch = main
