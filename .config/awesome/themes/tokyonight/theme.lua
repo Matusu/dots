@@ -54,9 +54,9 @@ theme.color = {
   red1 = '#db4b4b'
 }
 
-theme.font = 'monospace 11'
+theme.font = 'monospace 12'
 
-theme.fonts = {icon = 'monospace 15', widget = theme.font}
+theme.fonts = {icon = 'monospace 16', widget = theme.font}
 
 theme.bg_normal = theme.color.bg
 theme.bg_focus = theme.color.frost[4]

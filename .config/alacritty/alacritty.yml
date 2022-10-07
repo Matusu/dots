@@ -11,29 +11,29 @@ font:
 colors:
   # Default colors
   primary:
-    background: '0x24283b'
-    foreground: '0xc0caf5'
+    background: '0x0e2133'
+    foreground: '0xe6e0cf'
 
   # Normal colors
   normal:
     black:   '0x1D202F'
-    red:     '0xf7768e'
-    green:   '0x9ece6a'
-    yellow:  '0xe0af68'
-    blue:    '0x7aa2f7'
-    magenta: '0xbb9af7'
-    cyan:    '0x7dcfff'
+    red:     '0xdf6a6a'
+    green:   '0x93c47d'
+    yellow:  '0xdfb46a'
+    blue:    '0x7390bf'
+    magenta: '0xffcce6'
+    cyan:    '0x73b8bf'
     white:   '0xa9b1d6'
 
   # Bright colors
   bright:
     black:   '0x414868'
-    red:     '0xf7768e'
-    green:   '0x9ece6a'
-    yellow:  '0xe0af68'
-    blue:    '0x7aa2f7'
-    magenta: '0xbb9af7'
-    cyan:    '0x7dcfff'
+    red:     '0xdf6a6a'
+    green:   '0x93c47d'
+    yellow:  '0xdfb46a'
+    blue:    '0x7390bf'
+    magenta: '0xffcce6'
+    cyan:    '0x73b8bf'
     white:   '0xc0caf5'
 
   indexed_colors:

@@ -48,6 +48,7 @@ Plug('nvim-telescope/telescope.nvim')
 Plug('morhetz/gruvbox')
 Plug('joshdick/onedark.vim')
 Plug('doki-theme/doki-theme-vim')
+Plug('tjammer/blayu.vim')
 
 Plug('github/copilot.vim')
 

@@ -42,6 +42,7 @@ alias gif="sxiv -a"
 alias what="echo ever. 🤣😝😂😜"
 alias co="echo koliv. 😂🤪🤣😝"
 alias sus="systemctl suspend"
+alias matlab="/usr/local/MATLAB/R2022b/bin/matlab"
 
 complete -F _complete_alias paru-r
 complete -F _complete_alias go
